@@ -36,7 +36,7 @@
 # Discussions
 🈚👓 The Discussions contain 15 discussions.
 
-- [ ] Disc00: Intro
+- [x] Disc00: Intro
 - [ ] Disc01A: Proof
 - [ ] Disc01B: Induction
 - [ ] Disc02A: Stable Matching
