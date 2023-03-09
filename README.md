@@ -10,7 +10,7 @@
 🐱‍👓 The Notes contain 22 notes.
 
 - [x] Note00: Notetaions
-- [ ] Note01: Propositional Logic
+- [x] Note01: Propositional Logic
 - [ ] Note02: Proof
 - [ ] Note03: Induction
 - [ ] Note04: Stable Matching
