@@ -9,9 +9,9 @@
 # Notes
 🐱‍👓 The Notes contain 22 notes.
 
-- [x] Note00: Notetaions
+- [x] Note00: Notations
 - [x] Note01: Propositional Logic
-- [ ] Note02: Proof
+- [x] Note02: Proof
 - [ ] Note03: Induction
 - [ ] Note04: Stable Matching
 - [ ] Note05: Graph Theory
