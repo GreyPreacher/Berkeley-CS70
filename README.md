@@ -1,5 +1,5 @@
 # Berkeley-CS70
-😎 This is the work of 2021 spring UC Berkeley CS70 **Discrete Mathematics and Probability Theory**.  
+😎 This is the work of 2022 spring UC Berkeley CS70 **Discrete Mathematics and Probability Theory**.  
 
 
 # Resources
