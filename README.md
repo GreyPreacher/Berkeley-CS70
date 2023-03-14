@@ -36,8 +36,7 @@
 # Discussions
 🈚👓 The Discussions contain 15 discussions.
 
-- [x] Disc00: Intro
-- [ ] Disc01A: Proof
+- [x] Disc01A: Proof
 - [ ] Disc01B: Induction
 - [ ] Disc02A: Stable Matching
 - [ ] Disc02B: Graphs1
@@ -66,7 +65,7 @@
 # HWs
 🎫 The HWs contain 16 homework. 
 
-- [x] Hw00: Review
+- [ ] Hw00: Intro
 - [ ] Hw01: Proof
 - [ ] HW02: Stable Matching
 - [ ] HW03: Graphs
