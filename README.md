@@ -12,7 +12,7 @@
 - [x] Note00: Notations
 - [x] Note01: Propositional Logic
 - [x] Note02: Proof
-- [ ] Note03: Induction
+- [x] Note03: Induction
 - [ ] Note04: Stable Matching
 - [ ] Note05: Graph Theory
 - [ ] Note06: Modular Arithmetic
