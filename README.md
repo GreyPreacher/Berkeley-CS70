@@ -37,7 +37,7 @@
 🈚👓 The Discussions contain 15 discussions.
 
 - [x] [Disc01A: Proof](https://github.com/GreyPreacher/Berkeley-CS70/blob/main/Discussions/dis00a.pdf)
-- [ ] Disc01B: Induction
+- [x] Disc01B: Induction
 - [ ] Disc02A: Stable Matching
 - [ ] Disc02B: Graphs1
 - [ ] Disc03A: Graphs2
@@ -65,7 +65,7 @@
 # HWs
 🎫 The HWs contain 16 homework. 
 
-- [ ] Hw00: Intro
+- [x] Hw00: Intro
 - [ ] Hw01: Proof
 - [ ] HW02: Stable Matching
 - [ ] HW03: Graphs
