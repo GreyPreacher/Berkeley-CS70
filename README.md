@@ -9,10 +9,10 @@
 # Notes
 🐱‍👓 The Notes contain 22 notes.
 
-- [x] [Note00: Notations](https://github.com/GreyPreacher/Berkeley-CS70/blob/main/Notes/n0.pdf)
-- [x] [Note01: Propositional Logic](https://github.com/GreyPreacher/Berkeley-CS70/blob/main/Notes/n1.pdf)
-- [x] [Note02: Proof](https://github.com/GreyPreacher/Berkeley-CS70/blob/main/Notes/n2.pdf)
-- [x] [Note03: Induction](https://github.com/GreyPreacher/Berkeley-CS70/blob/main/Notes/n3.pdf)
+- [x] Note00: Notations
+- [x] Note01: Propositional Logic
+- [x] Note02: Proof
+- [x] Note03: Induction
 - [ ] Note04: Stable Matching
 - [ ] Note05: Graph Theory
 - [ ] Note06: Modular Arithmetic
@@ -36,7 +36,7 @@
 # Discussions
 🈚👓 The Discussions contain 15 discussions.
 
-- [x] [Disc01A: Proof](https://github.com/GreyPreacher/Berkeley-CS70/blob/main/Discussions/dis00a.pdf)
+- [x] Disc01A: Proof
 - [x] Disc01B: Induction
 - [ ] Disc02A: Stable Matching
 - [ ] Disc02B: Graphs1
