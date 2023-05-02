@@ -1,13 +1,12 @@
 # Berkeley-CS70
 😎 This is the work of 2022 spring UC Berkeley CS70 **Discrete Mathematics and Probability Theory**.  
-**To myself: Revision of README is needed. Please check everytime modifying README.**
 
 # Resources
 📖 The CS70 official website can be found at [this page](https://www.sp22.eecs70.org/).  
 
 
 # Notes
-🐱‍👓 The Notes contain 22 notes.
+🐱‍👓 The Notes contain 23 notes.
 
 - [x] Note00: Notations
 - [x] Note01: Propositional Logic
@@ -18,66 +17,68 @@
 - [ ] Note06: Modular Arithmetic
 - [ ] Note07: RSA
 - [ ] Note08: Polynomial
-- [ ] Note09: ECC
+- [ ] Note09: ECC(Error Correcting Codes)
 - [ ] Note10: Counting
 - [ ] Note11: Countability
 - [ ] Note12: Computability
 - [ ] Note13: Discrete Possibility
 - [ ] Note14: Conditional Probability
-- [ ] Note15: RV-Distribution and Expectation
-- [ ] Note16: RV-Variance and Covariance
-- [ ] Note17: Concentration Inequalities
-- [ ] Note18: Applications
-- [ ] Note19: Geometric and Poisson Distributions
-- [ ] Note20: Distributions
-- [ ] Note21: Markov Chains
+- [ ] Note15: Random Variables I
+- [ ] Note16: Variance and Covariance
+- [ ] Note17: Concentration Inequalities, LLN and Confidence Intervals
+- [ ] Note18: Hashing and Applications
+- [ ] Note19: Random Variables II
+- [ ] Note20: Linear Regression, Conditional Expectation
+- [ ] Note21: Continuous Distributions
+- [ ] Note22: Markov Chains
 
 
 # Discussions
-🈚👓 The Discussions contain 15 discussions.
+🈚👓 The Discussions contain 14 discussions.
 
-- [x] Disc01A: Proof
-- [x] Disc01B: Induction
-- [ ] Disc02A: Stable Matching
-- [ ] Disc02B: Graphs1
-- [ ] Disc03A: Graphs2
-- [ ] Disc03B: Modular Arithmetic
-- [ ] Disc04A: CRT
-- [ ] Disc04B: RSA
-- [ ] Disc05A: ECC
-- [ ] Disc06A: Counting1
-- [ ] Disc06B: Counting2
-- [ ] Disc08A: Countability
-- [ ] Disc08B: Halting Problem
-- [ ] Disc09A: Intro-to-Probability
-- [ ] Disc09B: Conditional Probability1
-- [ ] Disc10A: Conditional Probability2
-- [ ] Disc10B: Random Variable(RV)1
-- [ ] Disc11A: Random Variable(RV)2
-- [ ] Disc11B: Variance
-- [ ] Disc12A: Concentration Inequality
-- [ ] Disc12B: Memoryless Propertry
-- [ ] Disc13A: Continuous
-- [ ] Disc14A: Continuous Probability
-- [ ] Disc14B: Markov Chains
+- [x] Disc00A: Introduction
+- [x] Disc00B: Proof
+- [ ] Disc01A: Induction
+- [ ] Disc01B: Stable Matching
+- [ ] Disc02A: Graphs1
+- [ ] Disc02B: Graphs2
+- [ ] Disc03A: Modular Arithmetic1
+- [ ] Disc03B: Modular Arithmetic2 and Euclid, FLT, CRT
+- [ ] Disc04A: RSA, Polynomials
+- [ ] Disc04B: Polynomials, Secret Sharing
+- [ ] Disc05A: ECC(Error Correcting Codes)
+- [ ] Disc05B: Counting
+- [ ] Disc06A: Inclusion-Exclusion, Counting
+- [ ] Disc07A: Countability
+- [ ] Disc07B: Computability
+- [ ] Disc08A: Conditional Probability, Independence
+- [ ] Disc08B: Combination of Events
+- [ ] Disc10A: Random Variables I
+- [ ] Disc10B: Random Variables II
+- [ ] Disc11A: Variance and Covariance
+- [ ] Disc11B: Concentration Inequalities, LLN and Confidence Intervals
+- [ ] Disc12A: Linear Regression, Conditional Expectation
+- [ ] Disc12B: Hashing and Applications
+- [ ] Disc13A: Continuous Distributions I
+- [ ] Disc13B: Continuous Distributions II
+- [ ] Disc14A: Markov Chains
+- [ ] Disc14B: Conclusions
 
 
 # HWs
-🎫 The HWs contain 16 homework. 
+🎫 The HWs contain 14 homework. 
 
 - [x] Hw00: Intro
-- [ ] Hw01: Proof
-- [ ] HW02: Stable Matching
-- [ ] HW03: Graphs
-- [ ] Hw04: RSA
-- [ ] Hw05: Secret Sharing
-- [ ] HW06: ECC
-- [ ] HW07: Counting
-- [ ] Hw08: Countability
-- [ ] Hw09: Complexity
-- [ ] HW10: Probability
-- [ ] HW11: Random Variable
-- [ ] Hw12: Variance, Concentration Inequalities
-- [ ] Hw13: Hashing, Memoryless, and Continuous
-- [ ] HW14: Continuous Probability
-- [ ] HW15: Markov Chains
+- [ ] Hw01: Stable Matching
+- [ ] HW02: Graphs
+- [ ] HW03: Modular Arithmetic
+- [ ] Hw04: RSA, Polynomials
+- [ ] Hw05: ECC(Error Correcting Codes)
+- [ ] HW06: Inclusion-Exclusion, Counting
+- [ ] HW07: Countability & Computability & Probability
+- [ ] Hw08: Conditional Probability, Independence and Combination of Events
+- [ ] HW10: Random Variables
+- [ ] HW11: Variance and Covariance
+- [ ] Hw12: Linear Regression, Conditional Expectation
+- [ ] Hw13: Continuous Distributions
+- [ ] HW14: Markov Chains
