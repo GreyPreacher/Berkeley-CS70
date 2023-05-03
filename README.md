@@ -38,7 +38,7 @@
 
 - [x] Disc00A: Introduction
 - [x] Disc00B: Proof
-- [ ] Disc01A: Induction
+- [x] Disc01A: Induction
 - [ ] Disc01B: Stable Matching
 - [ ] Disc02A: Graphs1
 - [ ] Disc02B: Graphs2
