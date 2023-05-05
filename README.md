@@ -1,5 +1,6 @@
 # Berkeley-CS70
-😎 This is the work of 2022 spring UC Berkeley CS70 **Discrete Mathematics and Probability Theory**.  
+😎 This is UC Berkeley CS70 **Discrete Mathematics and Probability Theory** Spring 2022 by GreyPreacher(Alvin Zhang).  
+**IDE**: Paper.
 
 # Resources
 📖 The CS70 official website can be found at [this page](https://www.sp22.eecs70.org/).  
