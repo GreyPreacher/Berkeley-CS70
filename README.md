@@ -13,7 +13,7 @@
 - [x] Note01: Propositional Logic
 - [x] Note02: Proof
 - [x] Note03: Induction
-- [ ] Note04: Stable Matching
+- [x] Note04: Stable Matching
 - [ ] Note05: Graph Theory
 - [ ] Note06: Modular Arithmetic
 - [ ] Note07: RSA
