@@ -40,7 +40,7 @@
 - [x] Disc00A: Introduction
 - [x] Disc00B: Proof
 - [x] Disc01A: Induction
-- [ ] Disc01B: Stable Matching
+- [x] Disc01B: Stable Matching
 - [ ] Disc02A: Graphs1
 - [ ] Disc02B: Graphs2
 - [ ] Disc03A: Modular Arithmetic1
@@ -70,7 +70,7 @@
 🎫 The HWs contain 14 homework. 
 
 - [x] Hw00: Intro
-- [ ] Hw01: Stable Matching
+- [x] Hw01: Stable Matching
 - [ ] HW02: Graphs
 - [ ] HW03: Modular Arithmetic
 - [ ] Hw04: RSA, Polynomials
