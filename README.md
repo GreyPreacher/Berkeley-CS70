@@ -14,7 +14,7 @@
 - [x] Note02: Proof
 - [x] Note03: Induction
 - [x] Note04: Stable Matching
-- [ ] Note05: Graph Theory
+- [x] Note05: Graph Theory
 - [ ] Note06: Modular Arithmetic
 - [ ] Note07: RSA
 - [ ] Note08: Polynomial
@@ -41,7 +41,7 @@
 - [x] Disc00B: Proof
 - [x] Disc01A: Induction
 - [x] Disc01B: Stable Matching
-- [ ] Disc02A: Graphs1
+- [x] Disc02A: Graphs1
 - [ ] Disc02B: Graphs2
 - [ ] Disc03A: Modular Arithmetic1
 - [ ] Disc03B: Modular Arithmetic2 and Euclid, FLT, CRT
