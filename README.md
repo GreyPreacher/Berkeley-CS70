@@ -42,7 +42,7 @@
 - [x] Disc01A: Induction
 - [x] Disc01B: Stable Matching
 - [x] Disc02A: Graphs1
-- [ ] Disc02B: Graphs2
+- [x] Disc02B: Graphs2
 - [ ] Disc03A: Modular Arithmetic1
 - [ ] Disc03B: Modular Arithmetic2 and Euclid, FLT, CRT
 - [ ] Disc04A: RSA, Polynomials
