@@ -15,7 +15,7 @@
 - [x] Note03: Induction
 - [x] Note04: Stable Matching
 - [x] Note05: Graph Theory
-- [ ] Note06: Modular Arithmetic
+- [x] Note06: Modular Arithmetic
 - [ ] Note07: RSA
 - [ ] Note08: Polynomial
 - [ ] Note09: ECC(Error Correcting Codes)
@@ -71,7 +71,7 @@
 
 - [x] Hw00: Intro
 - [x] Hw01: Stable Matching
-- [ ] HW02: Graphs
+- [x] HW02: Graphs
 - [ ] HW03: Modular Arithmetic
 - [ ] Hw04: RSA, Polynomials
 - [ ] Hw05: ECC(Error Correcting Codes)
