@@ -16,7 +16,7 @@
 - [x] Note04: Stable Matching
 - [x] Note05: Graph Theory
 - [x] Note06: Modular Arithmetic
-- [ ] Note07: RSA
+- [x] Note07: RSA
 - [ ] Note08: Polynomial
 - [ ] Note09: ECC(Error Correcting Codes)
 - [ ] Note10: Counting
