@@ -1,6 +1,6 @@
 # Berkeley-CS70
 😎 This is UC Berkeley CS70 **Discrete Mathematics and Probability Theory** Spring 2022 by GreyPreacher(Alvin Zhang).  
-⚔ **IDE**: Paper.
+⚔ **IDE**: Paper and iPad.
 
 # Resources
 📖 The CS70 official website can be found at [this page](https://www.sp22.eecs70.org/).  
@@ -43,7 +43,7 @@
 - [x] Disc01B: Stable Matching
 - [x] Disc02A: Graphs1
 - [x] Disc02B: Graphs2
-- [ ] Disc03A: Modular Arithmetic1
+- [x] Disc03A: Modular Arithmetic1
 - [ ] Disc03B: Modular Arithmetic2 and Euclid, FLT, CRT
 - [ ] Disc04A: RSA, Polynomials
 - [ ] Disc04B: Polynomials, Secret Sharing
